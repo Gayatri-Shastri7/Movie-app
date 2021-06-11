@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![image](https://user-images.githubusercontent.com/66173499/121706672-78f33300-caf3-11eb-9d4e-8caa5e43e428.png)
 <h3>3. Add, Delete Movies</h3>
-<h3>4. While adding movies, we can aslo add content for preview in same form</h3>
+<h3>4. While adding movies, we can also add content for preview in same form</h3>
